@@ -752,8 +752,9 @@
 }
 #u1080 {
   position:absolute;
-  left:271px;
-  top:955px;
+  left:400px;
+  top:186px;
+  visibility:hidden;
 }
 #u1080_state0 {
   position:relative;

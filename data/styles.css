@@ -61,9 +61,36 @@
 }
 .arrow {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
 .table_cell {
 }
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+.sticky_4 {
   text-align:left;
 }
 .marker {
@@ -86,4 +113,6 @@
 }
 .primary_button {
   color:#FFFFFF;
+}
+.flow_shape {
 }
